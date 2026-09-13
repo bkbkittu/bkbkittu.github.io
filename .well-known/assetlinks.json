@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bkittu.propertyindia",
+    "sha256_cert_fingerprints": [
+      "77:9A:75:B8:73:3E:26:99:CC:64:00:1D:72:4A:65:2A:B1:4A:11:C3:68:3F:6B:31:DB:89:44:AC:EC:09:AF:17"
+    ]
+  }
+}]
